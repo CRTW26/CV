@@ -1,6 +1,8 @@
-## Your Name
+## Connor Worthington
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a recent graduate, training as a developer and looking for a junior developer role that will challenge me and give me the opportunity to expand my programming knowldge. 
+
+After graduating from university with a BA in Modern Languages, I moved to Vancouver and joined a software company, working as a data processor. Working in close proximity with developers on a daily basis, I decided to make the change and retrain as a software developer. 
 
 ## Projects
 
@@ -9,17 +11,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -27,9 +18,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### This Skill
 
-- Experience
-- Achievements
-- Evidence
+- Clear and concise communicator 
+- Adaptable 
+- Attention to Detail 
 
 #### Another Skill
 
@@ -40,19 +31,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Experience
+
+Navarik, Vancouver (December '19 - September '20)  
+Data Processor
+
+- Any experience relevent to software development
+
+Buffalo Systems, Sheffield (Feburary 19' - June 19')  
+Translation Project
+
+- Any experience relevent to software development
+
+University of Zacatecas, Mexico (August 17' - December 17')
+Language Assistant
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September '20 - November '20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+University of Sheffield (September 15' - July 19')
 
-- Subject, any specialisms
-- Grade
+- BA in Modern Languages
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
