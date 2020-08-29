@@ -33,17 +33,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-Navarik, Vancouver (December '19 - September '20)  
+### Navarik, Vancouver (December '19 - September '20)  
 Data Processor
 
 - Any experience relevent to software development
 
-Buffalo Systems, Sheffield (Feburary 19' - June 19')  
+### Buffalo Systems, Sheffield (Feburary 19' - June 19')  
 Translation Project
 
 - Any experience relevent to software development
 
-University of Zacatecas, Mexico (August 17' - December 17')
+### University of Zacatecas, Mexico (August 17' - December 17')
 Language Assistant
 
 ## Education
@@ -55,7 +55,7 @@ Language Assistant
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-University of Sheffield (September 15' - July 19')
+### University of Sheffield (September 15' - July 19')
 
 - BA in Modern Languages
 - 2:1
