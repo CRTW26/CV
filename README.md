@@ -73,3 +73,8 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+[linkedin]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[github]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
+[Website]: https://img.shields.io/badge/-TL%20Website-%234b4b4b?style=for-the-badge
