@@ -3,15 +3,9 @@
 <div align='center'>
 
 [![Website]](https://www.connorworthington.com))
-[![LinkedIn Profile]](https://www.linkedin.com/in/connor-worthington-83b350131/)
+[![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
 [![Email]](mailto:worthington.connor@gmail.com)
-[![GitHub Profile]](https://github.com/crtw26)
-
-</div>
-<div align="center">
-       
-  | [My Portfolio](https://www.connorworthington.com) |          
-  | [My LinkedIn](https://www.linkedin.com/in/connor-worthington-83b350131/) |       
+[![GitHub]](https://github.com/crtw26)
 
 </div>
 
