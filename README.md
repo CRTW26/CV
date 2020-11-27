@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-[![Website]](https://www.connorworthington.com)
+[![Portfolio]](https://www.connorworthington.com)
 [![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
 [![Email]](mailto:worthington.connor@gmail.com)
 [![GitHub]](https://github.com/crtw26)
@@ -77,4 +77,4 @@ Any cool stuff that makes you a super part of a software development team
 [linkedin]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [github]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
-[Website]: https://img.shields.io/badge/-TL%20Website-%234b4b4b?style=for-the-badge
+[Portfolio]: https://img.shields.io/badge/-Portfolio-brightgreen
