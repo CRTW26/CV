@@ -15,10 +15,10 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Signposts**            | An augmented-reality iOS app that allows users to create and place personalised signs and messages. | Swift, ARKit, RealityKit, UIKit |
-| **Maskbook**             | A clone of Facebook.                                                                                | Ruby on Rails, RSpec            |
-| **MakersBnB**            | A clone of AirBnB                                                                                   | Ruby, PostgreSQL, CSS, Bootstrap|
-| **Recomendations App**   | An app to maker film and music suggestions using the TasteDive API                                  | Javascript, CSS
+| **[Signposts]**            | An augmented-reality iOS app that allows users to create and place personalised signs and messages. | Swift, ARKit, RealityKit, UIKit |
+| **[Maskbook]**             | A clone of Facebook.                                                                                | Ruby on Rails, RSpec            |
+| **[MakersBnB]**            | A clone of AirBnB                                                                                   | Ruby, PostgreSQL, CSS, Bootstrap|
+| **[Recommendations App]**   | An app to maker film and music suggestions using the TasteDive API                                  | Javascript, CSS
 
 ## Skills
 
@@ -73,6 +73,11 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+[Signposts]: https://github.com/samcolson4/signposts-again
+[Maskbook]: https://github.com/CRTW26/Croc-My-World
+[MakersBnB]: https://github.com/CRTW26/makersbnb
+[Recommendations App]: https://github.com/CRTW26/recommendations_app
 
 [linkedin]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
