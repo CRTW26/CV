@@ -77,4 +77,4 @@ Any cool stuff that makes you a super part of a software development team
 [linkedin]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [github]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
-[Portfolio]: https://img.shields.io/badge/-Portfolio-brightgreen
+[Portfolio]: https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge
