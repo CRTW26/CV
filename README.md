@@ -1,8 +1,13 @@
-## Connor Worthington
+<h1 align="center">Connor Worthington</h1> 
+<div align="center">
+       
+  | [My Portfolio](https://www.connorworthington.com) |       
+  | [My Github](https://github.com/crtw26) |    
+  | [My LinkedIn](https://www.linkedin.com/in/connor-worthington-83b350131/) |       
 
-I am a recent graduate, training as a developer and looking for a junior developer role that will challenge me and give me the opportunity to expand my programming knowldge. 
+</div>
 
-After graduating from university with a BA in Modern Languages, I moved to Vancouver and joined a software company, working as a data processor. Working in close proximity with developers on a daily basis, I decided to make the change and retrain as a software developer. 
+I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and am now looking for opportunities to learn and grow as a developer.
 
 ## Projects
 
@@ -36,15 +41,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### Navarik, Vancouver (December '19 - September '20)  
 Data Processor
 
-- Any experience relevent to software development
+-	Processing high volumes of data in an accurate and timely manner. 
+-	Identifying and reporting data issues.
+-	Identifying areas for process improvement and collaborating in designing solutions.
+-	Demonstrating versatility working in various roles. 
+-	Safeguarding data in accordance with relevant policies.
+
 
 ### Buffalo Systems, Sheffield (Feburary 19' - June 19')  
 Translation Project
 
-- Any experience relevent to software development
+-	Exercising a high level of attention to detail in the process of accurately translating marketing materials for use at 
+  conferences
+-	Clear communication when planning the project to set attainable targets and discussions around constraints.
+-	Practicing clear and effective team and project management.
 
-### University of Zacatecas, Mexico (August 17' - December 17')
-Language Assistant
 
 ## Education
 
