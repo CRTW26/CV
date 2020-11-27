@@ -1,8 +1,7 @@
 <h1 align="center">Connor Worthington</h1> 
 <div align="center">
        
-  | [My Portfolio](https://www.connorworthington.com) |       
-  | [My Github](https://github.com/crtw26) |    
+  | [My Portfolio](https://www.connorworthington.com) |          
   | [My LinkedIn](https://www.linkedin.com/in/connor-worthington-83b350131/) |       
 
 </div>
@@ -13,28 +12,19 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Signposts**            | An augmented-reality iOS app that allows users to create and place personalised signs and messages. | Swift, ARKit, RealityKit, UIKit |
+| **Maskbook**             | A clone of Facebook.                                                                                | Ruby on Rails, RSpec            |
 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Detail-orientated
 
-#### This Skill
+- orking as both a translator and a data processor required a high level of attention to detail in order to be successful in these roles. 
 
-- Clear and concise communicator 
-- Adaptable 
-- Attention to Detail 
+#### Fast-learner
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I recently graduated from a 16-week developer bootcamp, during which time I was introduced to a number of new technologies, which I had to learn and apply when building three team-based engineering projects.
 
 ## Experience
 
