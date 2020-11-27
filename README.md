@@ -1,4 +1,13 @@
 <h1 align="center">Connor Worthington</h1> 
+
+<div align='center'>
+
+[![Website]](https://www.connorworthington.com))
+[![LinkedIn Profile]](https://www.linkedin.com/in/connor-worthington-83b350131/)
+[![Email]](mailto:worthington.connor@gmail.com)
+[![GitHub Profile]](https://github.com/crtw26)
+
+</div>
 <div align="center">
        
   | [My Portfolio](https://www.connorworthington.com) |          
@@ -14,13 +23,14 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 | ---------------------------- | ----------------- | ----------------- |
 | **Signposts**            | An augmented-reality iOS app that allows users to create and place personalised signs and messages. | Swift, ARKit, RealityKit, UIKit |
 | **Maskbook**             | A clone of Facebook.                                                                                | Ruby on Rails, RSpec            |
-
+| **MakersBnB**            | A clone of AirBnB                                                                                   | Ruby, PostgreSQL, CSS, Bootstrap|
+| **Recomendations App**   | An app to maker film and music suggestions using the TasteDive API                                  | Javascript, CSS
 
 ## Skills
 
 #### Detail-orientated
 
-- orking as both a translator and a data processor required a high level of attention to detail in order to be successful in these roles. 
+- Working as both a translator and a data processor required a high level of attention to detail in order to be successful in these roles. 
 
 #### Fast-learner
 
