@@ -11,10 +11,10 @@
 
 <div align='center'>
 
-[![Portfolio]](https://www.connorworthington.com)
-[![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
-[![Email]](mailto:worthington.connor@gmail.com)
-[![GitHub]](https://github.com/crtw26)
+[![Ruby]]
+[![Javascript]]
+[![Swift]]
+[![SQL]]
 
 </div>
 
@@ -80,7 +80,12 @@ Translation Project
 
 - BA in Modern Languages
 - 2:1
+- Modules studied include: translation, enterprise and politics
 
+[Ruby]: https://img.shields.io/badge/-Ruby%20-red
+[Javascript]: https://img.shields.io/badge/-Javascript-yellow
+[Swift]: https://img.shields.io/badge/-Swift%20-orange
+[SQL]: https://img.shields.io/badge/-SQL-blueviolet
 
 [Signposts]: https://github.com/samcolson4/signposts-again
 [Maskbook]: https://github.com/CRTW26/Croc-My-World
