@@ -51,6 +51,74 @@ Having graduated from the Univeristy of Sheffield with a BA in Modern Languages 
 
 - I recently graduated from a 16-week developer bootcamp, during which time I was introduced to a number of new technologies, which I had to learn and apply when building three team-based engineering projects.
 
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>Swift</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>SQL</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>jQuery</li>
+          <li>PostgreSQL</li>
+          <li>CircleCI</li>
+          <li>Heroku</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object-Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Atom</li>
+          <li>Git</li>
+          <li>Figma</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Experience
 
 ### Navarik, Vancouver (December '19 - September '20)  
