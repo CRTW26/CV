@@ -38,7 +38,7 @@ Having graduated from the Univeristy of Sheffield with a BA in Modern Languages 
 
 - Having worked in translation and data processing, I developed a detail-oriented attitude to my work and this is a skill that I have been able to apply to my work as a developer. 
 
-### Team-player
+#### Team-player
 
 - During my time at Makers Academy, I engaged in paired-programming most days and completed three engineering-projects, requiring close collaboration in order to be successful. This taught me the importance of knowledge sharing and being willing to learn from others.
 
@@ -82,10 +82,10 @@ Translation Project
 - 2:1
 - Modules studied include: translation, enterprise and politics
 
-[Ruby]: https://img.shields.io/badge/-Ruby%20-red
-[Javascript]: https://img.shields.io/badge/-Javascript-yellow
-[Swift]: https://img.shields.io/badge/-Swift%20-orange
-[SQL]: https://img.shields.io/badge/-SQL-blueviolet
+[Ruby]: https://img.shields.io/badge/-Ruby%20-red?style=for-the-badge
+[Javascript]: https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge
+[Swift]: https://img.shields.io/badge/-Swift%20-orange?style=for-the-badge
+[SQL]: https://img.shields.io/badge/-SQL-blueviolet?style=for-the-badge
 
 [Signposts]: https://github.com/samcolson4/signposts-again
 [Maskbook]: https://github.com/CRTW26/Croc-My-World
