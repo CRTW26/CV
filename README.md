@@ -10,15 +10,7 @@
 </div>
 
 <div align='center'>
-
-![Ruby]
-![Javascript]
-![Swift]
-![SQL]
-
-</div>
-
-<div align='center'>
+  
 ### Jump to: 
 
 [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
