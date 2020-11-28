@@ -11,10 +11,10 @@
 
 <div align='center'>
 
-[![Ruby]]
-[![Javascript]]
-[![Swift]]
-[![SQL]]
+![Ruby]
+![Javascript]
+![Swift]
+![SQL]
 
 </div>
 
