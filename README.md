@@ -9,7 +9,19 @@
 
 </div>
 
+<div align='center'>
+
+[![Portfolio]](https://www.connorworthington.com)
+[![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
+[![Email]](mailto:worthington.connor@gmail.com)
+[![GitHub]](https://github.com/crtw26)
+
+</div>
+
 I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and am now looking for opportunities to learn and grow as a developer.
+
+Having graduated from the Univeristy of Sheffield with a BA in Modern Languages I worked on translation projects before moving to Canada and joining a software company and working as a Data Processor. Working in close proximity with developers, my interest in the area grew and upon my return to the UK I chose to pursue a career as a developer. 
+
 
 ## Projects
 
@@ -18,13 +30,17 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 | **[Signposts]**            | An augmented-reality iOS app that allows users to create and place personalised signs and messages. | Swift, ARKit, RealityKit, UIKit |
 | **[Maskbook]**             | A clone of Facebook.                                                                                | Ruby on Rails, RSpec            |
 | **[MakersBnB]**            | A clone of AirBnB                                                                                   | Ruby, PostgreSQL, CSS, Bootstrap|
-| **[Recommendations App]**   | An app to maker film and music suggestions using the TasteDive API                                  | Javascript, CSS
+| **[Recommendations App]**   | An app to maker film and music suggestions using the TasteDive API                                 | Javascript, CSS
 
 ## Skills
 
 #### Detail-orientated
 
-- Working as both a translator and a data processor required a high level of attention to detail in order to be successful in these roles. 
+- Having worked in translation and data processing, I developed a detail-oriented attitude to my work and this is a skill that I have been able to apply to my work as a developer. 
+
+### Team-player
+
+- During my time at Makers Academy, I engaged in paired-programming most days and completed three engineering-projects, requiring close collaboration in order to be successful. This taught me the importance of knowledge sharing and being willing to learn from others.
 
 #### Fast-learner
 
@@ -64,15 +80,7 @@ Translation Project
 
 - BA in Modern Languages
 - 2:1
-- Other cool stuff
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
 
 [Signposts]: https://github.com/samcolson4/signposts-again
 [Maskbook]: https://github.com/CRTW26/Croc-My-World
