@@ -2,6 +2,8 @@
 
 <div align='center'>
 
+### Full-Stack Developer 
+
 [![Portfolio]](https://www.connorworthington.com)
 [![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
 [![Email]](mailto:worthington.connor@gmail.com)
