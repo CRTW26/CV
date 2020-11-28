@@ -18,6 +18,17 @@
 
 </div>
 
+<div align='center'>
+### Jump to: 
+
+[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![technical knowledge](https://img.shields.io/badge/-Technical_Knowledge-blue?style=for-the-badge)](#technical-knowledge)
+[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+
+</div>
+
 I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and am now looking for opportunities to learn and grow as a developer.
 
 Having graduated from the Univeristy of Sheffield with a BA in Modern Languages I worked on translation projects before moving to Canada and joining a software company and working as a Data Processor. Working in close proximity with developers, my interest in the area grew and upon my return to the UK I chose to pursue a career as a developer. 
