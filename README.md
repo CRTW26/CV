@@ -15,11 +15,11 @@
   
 ### Jump to: 
 
-[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
-[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
-[![technical knowledge](https://img.shields.io/badge/-Technical_Knowledge-blue?style=for-the-badge)](#technical-knowledge)
-[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
-[![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+[![Projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![Skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![Technologies](https://img.shields.io/badge/-Technical_Knowledge-blue?style=for-the-badge)](#technical-knowledge)
+[![Experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![Education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
 
 </div>
 
