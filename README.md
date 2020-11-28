@@ -17,7 +17,7 @@
 
 [![Projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
 [![Skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
-[![Technologies](https://img.shields.io/badge/-Technical_Knowledge-blue?style=for-the-badge)](#technical-knowledge)
+[![Technologies](https://img.shields.io/badge/-Technolgies-blue?style=for-the-badge)](#technologies)
 [![Experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
 [![Education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
 
