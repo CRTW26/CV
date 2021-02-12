@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-### Full-Stack Developer 
+### Software Developer 
 
 <!-- [![Portfolio]](http://www.connorworthington.com/) --> 
 [![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
