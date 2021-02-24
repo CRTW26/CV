@@ -25,7 +25,7 @@
 
 I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and am now looking for opportunities to learn and grow as a developer.
 
-Having graduated from the Univeristy of Sheffield with a BA in Modern Languages I worked on translation projects before moving to Canada and joining a software company and working as a Data Processor. Working in close proximity with developers, my interest in the area grew and upon my return to the UK I chose to pursue a career as a developer. 
+Having graduated from the Univeristy of Sheffield with a BA in Modern Languages I worked on translation projects before moving to Canada and joining a software company, working as a Data Processor. Working in close proximity with developers, my interest in the area grew and upon my return to the UK I chose to pursue a career as a developer. 
 
 
 ## Projects
