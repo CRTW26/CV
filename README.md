@@ -148,10 +148,9 @@ Translation Project
 
 #### Makers Academy (September '20 - November '20)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Developing proficiency in test-driven development, object- orientated programming and agile practices.
+- Collaborating by paired programming and code reviews.
+- Designing, planning and implementing web-based applications.
 
 ### University of Sheffield (September 15' - July 19')
 
